@@ -46,7 +46,7 @@ or play the latest on [GitHub](http://doublespeakgames.github.io/adarkroom)
 ` <a href="https://play.google.com/store/apps/details?id=com.yourcompany.adarkroom"><img src="http://i.imgur.com/bLWWj4r.png" height="50">``</a> `
 ` <a href="https://store.steampowered.com/app/2460660/A_Dark_Room/"><img src="https://i.imgur.com/yz6cnU0.png" height="50">``</a> `
 
-# Way To Bulid
+# Way To Build
 
 -   Build
 
@@ -57,5 +57,5 @@ docker build -t adarkroom-lucas .
 -   Save tar To Dir
 
 ```
-docker save adarkroom-lucas > ./image/adarkroom-lucas.tar
+docker save adarkroom-lucas > ./build/adarkroom-lucas.tar
 ```

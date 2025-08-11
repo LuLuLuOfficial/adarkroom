@@ -1,5 +1,5 @@
 /.settings
-/image
+/build
 *.TODO
 *.mo
 *.swp
@@ -8,3 +8,4 @@ lang/.DS_Store
 .DS_Store
 node_modules
 img/Thumbs.db
+yarn.lock

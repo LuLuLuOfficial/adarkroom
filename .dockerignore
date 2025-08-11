@@ -1,11 +1,12 @@
 # from .gitignore
 /.settings
-/image
+/build
 *.TODO
 *.mo
 *.swp
 .vscode
 lang/.DS_Store
 .DS_Store
-node_modules
+# node_modules
 img/Thumbs.db
+yarn.lock
