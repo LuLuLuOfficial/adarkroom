@@ -1,16 +1,11 @@
-# 忽略编辑器和IDE相关文件
-.settings
+# from .gitignore
+/.settings
+/image
+*.TODO
+*.mo
 *.swp
 .vscode
-*.TODO
-
-# 忽略本地系统文件
-.DS_Store
 lang/.DS_Store
-img/Thumbs.db
-
-# 忽略编译和国际化文件
-*.mo
-
-# 忽略依赖目录
+.DS_Store
 node_modules
+img/Thumbs.db
