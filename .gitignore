@@ -2,7 +2,7 @@
 *.TODO
 *.mo
 *.swp
-.idea
+.vscode
 lang/.DS_Store
 .DS_Store
 node_modules

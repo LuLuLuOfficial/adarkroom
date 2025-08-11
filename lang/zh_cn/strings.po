@@ -17,6 +17,7 @@ msgstr ""
 "X-POOTLE-MTIME: 1421483365.000000\n"
 "X-Poedit-SearchPath-0: ./../../script\n"
 
+
 #: script/dropbox.js:62
 msgid "Dropbox connection"
 msgstr "dropbox连接"
@@ -36,15 +37,15 @@ msgstr "取消"
 
 #: script/dropbox.js:86 script/dropbox.js:176
 msgid "Dropbox Export / Import"
-msgstr "dropbox导出/导入"
+msgstr "Dropbox 导出/导入"
 
 #: script/dropbox.js:89
 msgid "export or import save data to dropbox datastorage"
-msgstr "导出或导入存档文件到dropbox"
+msgstr "导出或导入存档文件到 Dropbox"
 
 #: script/dropbox.js:90
 msgid "your are connected to dropbox with account / email "
-msgstr "您已用此账户/电子邮件连接到dropbox: "
+msgstr "您已用此账户/电子邮件连接到 Dropbox: "
 
 #: script/dropbox.js:93
 msgid "save"
@@ -76,11 +77,11 @@ msgstr "加载"
 
 #: script/dropbox.js:179
 msgid "successfully saved to dropbox datastorage"
-msgstr "成功保存到dropbox"
+msgstr "成功保存到 Dropbox"
 
 #: script/dropbox.js:180
 msgid "error while saving to dropbox datastorage"
-msgstr "保存到dropbox出错"
+msgstr "保存到 Dropbox 出错"
 
 #: script/dropbox.js:183
 msgid "ok"
@@ -217,6 +218,14 @@ msgstr "进食恢复更多生命"
 #: script/engine.js:69
 msgid "learned to make the most of food"
 msgstr "学会充分消化食物"
+
+#: script/engine.js:126
+msgid "language."
+msgstr "选择语言"
+
+#: script/engine.js:141 script/engine.js:916
+msgid "sound on."
+msgstr "打开声音"
 
 #: script/engine.js:138
 msgid "get the app."
@@ -362,9 +371,8 @@ msgstr "开灯"
 msgid "Go Hyper?"
 msgstr "要加速么？"
 
-#: script/engine.js:527
-msgid ""
-"turning hyper mode speeds up the game to x2 speed. do you want to do that?"
+#: script/engine.js:558
+msgid "turning hyper mode speeds up the game to x2 speed. do you want to do that?"
 msgstr "开启加速模式将会使游戏速度变为原有的2倍。你确定要加速吗？"
 
 #: script/engine.js:550
@@ -374,6 +382,30 @@ msgstr "原速"
 #: script/engine.js:649
 msgid "{0} per {1}s"
 msgstr "{0} /{1}秒"
+
+#: script/engine.js:824
+msgid "sound off."
+msgstr "关闭声音"
+
+#: script/engine.js:868
+msgid "Sound Available!"
+msgstr "音频可用!"
+
+#: script/engine.js:872
+msgid "ears flooded with new sensations."
+msgstr "耳畔涌来全新的感官体验。"
+
+#: script/engine.js:873
+msgid "perhaps silence is safer?"
+msgstr "也许沉默才是安全的？"
+
+#: script/engine.js:877
+msgid "enable audio"
+msgstr "启用声音"
+
+#: script/engine.js:882
+msgid "disable audio"
+msgstr "禁用声音"
 
 #: script/events.js:200
 msgid "pause."

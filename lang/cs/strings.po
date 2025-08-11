@@ -95,7 +95,6 @@ msgstr "boxer"
 msgid "punches do more damage"
 msgstr "údery způsobují větší poškození"
 
-# more force
 #: script/engine.js:18
 msgid "learned to throw punches with purpose"
 msgstr "naučil ses lépe cílit údery"
@@ -196,7 +195,6 @@ msgstr "vidíš dál"
 #: script/engine.js:59
 msgid "learned to look ahead"
 msgstr "naučil se pozorovat efektivně pozorovat okolí"
-
 #: script/engine.js:62
 msgid "stealthy"
 msgstr "plíživý"
